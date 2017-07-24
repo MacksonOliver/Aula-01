@@ -1,1 +1,1 @@
-alert("What are you?"); 
+alert("I don't have any hours."); 
